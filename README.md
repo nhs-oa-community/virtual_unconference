@@ -6,6 +6,8 @@
 
 ## What is a Virtual Unconference?
 
+Welcome video: <https://www.youtube.com/watch?v=04hSdQNTzZQ>
+
 An unconference is an event at which, unlike a traditional lecture format, topics are proposed by the audience, and voted for. 
 The most popular are then scheduled and discussed as part of a standard format. 
 The NHS-R committee used to host these sessions, mostly run by University of Edinburgh colleagues.
