@@ -6,6 +6,14 @@
 - [What's this repository for?](#whats-this-repository-for)
 - [Suggest Unconference Topics and Vote](#suggest-unconference-topics-and-vote)
 
+## Social Sharing links (NHS Open Analytics)
+
+Website <https://nhsoa.uk/>
+
+Github <https://github.com/nhs-oa-community>
+
+Linkedin <https://www.linkedin.com/company/nhs-oa/posts/>
+
 ## Group Photo
 
 ![Group photo of attendees of the 2026 NHSOA Unconference](images/nhsoa_unconference_2026_attendees.jpg "Group photo of attendees of the 2026 NHSOA Unconference")
