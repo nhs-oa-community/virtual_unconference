@@ -1,9 +1,14 @@
 # Virtual Unconference
 
-- [Timetable during the day](#Timetable)
+- [Group Photo](#group-photo)
+- [Timetable during the day](#timetable)
 - [What is a Virtual Unconference?](#what-is-a-virtual-unconference)
 - [What's this repository for?](#whats-this-repository-for)
 - [Suggest Unconference Topics and Vote](#suggest-unconference-topics-and-vote)
+
+## Group Photo
+
+![Group photo of attendees of the 2026 NHSOA Unconference](images/nhsoa_unconference_2026_attendees.jpg "Group photo of attendees of the 2026 NHSOA Unconference")
 
 ## Timetable
 
