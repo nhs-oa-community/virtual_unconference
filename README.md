@@ -1,4 +1,4 @@
-# Virtual Unconference
+# NHS Open Analytics Unconference 2026
 
 - [Group Photo](#group-photo)
 - [Timetable during the day](#timetable)
